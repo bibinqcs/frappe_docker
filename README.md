@@ -22,7 +22,7 @@ To play in an already set up sandbox, in your browser, click the button below:
 First clone the repo:
 
 ```sh
-git clone https://github.com/frappe/frappe_docker
+https://github.com/bibinqcs/frappe_docker.git
 cd frappe_docker
 ```
 
